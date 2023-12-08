@@ -1,0 +1,186 @@
+{
+    "data":[
+        {
+            "name":"Khusal K",
+            "about":"Khushal K Pink Embroidered Kurta With Pant & Dupatta",
+            "id":"1",
+            "count":1,
+            "newrate":"1919",
+            "fav":"false",
+            "card":false,
+            "oldrate":"6399",
+            "offer":"55",
+            "path":"https://img.tatacliq.com/images/i12/437Wx649H/MP000000018500087_437Wx649H_202307292324281.jpeg"
+
+        },
+
+        {
+            "name":"Biba",
+            "about":"Biba Turquoise Embroidered Kurta With Pant & Dupatta",
+            "id":"2",
+            "card":false,
+            "newrate":"2799",
+            "oldrate":"3999",
+            "count":1,
+            "fav":"false",
+            "offer":"20",
+            "path":"https://img.tatacliq.com/images/i7/437Wx649H/MP000000009602031_437Wx649H_202105220325001.jpeg"
+
+        },
+
+        {
+            "name":"Ishin",
+            "about":"Ishin Maroon Embroidered Kurta Pant Set With Dupatta",
+            "id":"3",
+            "card":false,
+            "count":1,
+            "newrate":"2039",
+            "fav":"false",
+            "offer":"12",
+            "oldrate":"6099",
+            "path":"https://img.tatacliq.com/images/i12/437Wx649H/MP000000018500085_437Wx649H_202307292324211.jpeg"
+        },
+
+        {
+            "name":"Rangita",
+            "about":"Rangita Blue Woven Pattern Kurta Pant Set",
+            "id":"4",
+            "fav":"false",
+            "count":1,
+            "card":false,
+            "oldrate":"3599",
+            "newrate":"1599",
+            "offer":"10",
+            "path":"https://img.tatacliq.com/images/i14/437Wx649H/MP000000019628556_437Wx649H_202310120636221.jpeg"
+
+        },
+
+        {
+            "name":"Vark",
+            "count":1,
+            "about":"Vark blue cotton kurti Pattern Kurta pant set",
+            "id":"5",
+            "oops":false,
+            "type":"sudi",
+            "oldrate":"3299",
+            "card":false,
+            "newrate":"2999",
+            "fav":"false",
+            "offer":"20",
+            "path":"https://img.tatacliq.com/images/i13/437Wx649H/MP000000019365392_437Wx649H_202309231921001.jpeg"
+           
+
+        },
+
+        {
+            "name":"Elora",
+            "about":"Elora Pink Embroidered Saree With Unstitched Blouse",
+            "id":"6",
+            "type":"saree",
+            "card":false,
+            "oops":false,
+            "count":1,
+            "oldrate":"9799",
+            "newrate":"2345",
+            "offer":"50",
+            "fav":"false",
+            "path":"https://img.tatacliq.com/images/i14/437Wx649H/MP000000019628952_437Wx649H_202310120654231.jpeg"
+
+        },
+
+        {
+            "name":"Indi Inside",
+            "count":1,
+            "about":"Indi Inside Black Printed Unstitched Lehenga Choli Set With Dupatta",
+            "id":"7",
+            "type":"sudi",
+            "oops":false,
+            "oldrate":"5990",
+            "newrate":"2999",
+            "offer":"62",
+            "card":false,
+            "fav":"false",
+            "path":"https://img.tatacliq.com/images/i12/437Wx649H/MP000000018728577_437Wx649H_202308132047101.jpeg"
+
+        },
+
+        {
+            "name":"Selviya",
+            "about":"SELVIA Black Regular Fit Formal Shirt",
+            "id":"8",
+            "oldrate":"1763",
+            "type":"modern",
+            "count":1,
+            "oops":false,
+            "card":false,
+            "offer":"77",
+            "fav":"false",
+            "newrate":"399",
+            "path":"https://img.tatacliq.com/images/i9/437Wx649H/MP000000016425520_437Wx649H_202302071937111.jpeg"
+
+        },
+
+        {
+            "name":"Soch",
+            "about":"Soch Beige & Peach Printed Unstitched Dress Material",
+            "id":"9",
+            "type":"sudi",
+            "oldrate":"3668",
+            "count":1,
+            "newrate":"1849",
+            "offer":"50",
+            "card":false,
+            "oops":false,
+            "fav":"false",
+            "path":"https://img.tatacliq.com/images/i12/437Wx649H/MP000000018300483_437Wx649H_202307121703311.jpeg"
+
+        },
+
+        {
+            "name":"Van Heusen",
+            "about":"Van Heusen Black Shift Formal Dress",
+            "id":"10",
+            "type":"modern",
+            "count":1,
+            "oldrate":"3999",
+            "offer":"90",
+            "card":false,
+            "oops":false,
+            "fav":"false",
+            "newrate":"700",
+            "path":"https://img.tatacliq.com/images/i14/437Wx649H/MP000000019696589_437Wx649H_202310181219291.jpeg"
+
+        },
+
+        {
+            "name":"Bombay Paisley",
+            "card":false,
+            "about":"Bombay Paisley by Westside Teal Graph Checked Tiered Dress and Jacket",
+            "id":"11",
+            "oops":false,
+            "offer":"66",
+            "oldrate":"2599",
+            "type":"modern",
+            "newrate":"1999",
+            "fav":"false",
+            "path":"https://img.tatacliq.com/images/i14/437Wx649H/MP000000019681170_437Wx649H_202310160357341.jpeg"
+
+        },
+
+        {
+            "name":"Bibha",
+            "about":"Bibha Soch Navy Embroidered Dupatta",
+            "id":"12",
+            "count":1,
+            "card":false,
+            "offer":"44",
+            "oops":false,
+            "type":"sudi",
+            "fav":"false",
+            "oldrate":"2498",
+            "newrate":"1999",
+            "path":"https://img.tatacliq.com/images/i10/437Wx649H/MP000000016652810_437Wx649H_202302250337511.jpeg"
+
+        }
+    ]
+}

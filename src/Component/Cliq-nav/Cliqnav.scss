@@ -1,0 +1,100 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+.navsec{
+    background-color: rgb(168, 166, 166);
+    .navcon{
+        .navrow{
+
+            padding:20px;
+            width:90%;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+
+            .navcol1{
+                background-color: #212121;
+                width:10%;
+                .navlogo{
+                    width:100%;
+                    img{
+                        width:100%;
+
+                    }
+                   
+
+                }
+            }
+
+            .navcol2{
+                display: flex;
+                width:80%;
+                font-size: 20px;
+                justify-content: space-between;
+
+                .sec1{
+                    width: 100%;
+                    .navcol2-row1{
+                        display: flex;
+                        width:90%;
+                        justify-content: space-between;
+    
+                        .tata{
+                            width:20%;
+    
+                        }
+    
+                        .head{
+                            width:80%;
+                            display: flex;
+                            justify-content: space-between;
+                        }
+    
+                    }
+
+                    .sec1-1{
+                        padding:20px 0px 0px 0px;
+                        position: relative;
+                        .input{
+                            
+                            input{
+                                width: 90%;
+                                padding: 20px;
+
+                            }
+                            
+                        }
+
+                        .icon{
+                            position: absolute;
+                            font-size: 20px;
+                            top:40px;
+                            right: 120px;
+                        }
+
+                    }
+    
+                }
+
+                
+
+             
+                .navcol2-row2{
+                    width:10%;
+                    padding-left: 50px;
+                    font-size: 20px;
+                    // display: flex;
+                    justify-content: space-around;
+
+                    .heart{
+                        padding-bottom: 20px;
+                    }
+                }
+            }
+        }
+    }
+}

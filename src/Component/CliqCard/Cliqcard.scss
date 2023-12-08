@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.cardcon{
+    .cardrow{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .cardcol{
+            width:30%;
+            padding: 10px;
+            border: 1px solid black;
+            margin: 10px;
+            .cardimg{
+                width:100%;
+                img{
+                    width:100%
+                }
+            }
+
+            .cardprice{
+                display: flex;
+                padding: 10px 0px;
+                // justify-content: space-between;
+
+                h5{
+                    color:rgb(209, 208, 208);
+                    padding: 0px 10px;
+                }
+
+                #offer{
+                    border-radius: 10px 0px;
+                    color:green;
+                    font-size: 15px;
+                   
+                }
+            }
+
+            .cardicon{
+                display: flex;
+                padding-top:10px;
+                width:80%;
+                font-size:25px;
+                justify-content: space-between;
+
+                .add{
+                    padding-left: 20px;
+                    width:60%
+                }
+
+                .inde{
+                    padding-left: 20px;
+                    justify-content: space-between;
+                    width:80%;
+                    button{
+                        padding: 0px 20px;
+                        background-color:white;
+                        color:black;
+                        border: 2px solid black;
+                        // border-radius: 20px 0px 0px 0px;
+                        font-size: 20px
+
+                    }
+                    span{
+                        color:red
+                    }
+                }
+                
+            }
+        }
+
+        .oops{
+            text-align: center;
+            width:50%;
+            margin: auto;
+        }
+    }
+}
